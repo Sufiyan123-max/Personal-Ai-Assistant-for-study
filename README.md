@@ -82,7 +82,4 @@ git remote set-url origin git@github.com:Sufiyan123-max/Personal-Ai-Assistant-fo
 
 ## 👥 Contributors
 
-- **Aaditya Jha**
-- **Abhay Kumar Yadav**
-- **Palli Harshavardhan**
-- **Suraj Kumar**
+- **Sufiyan**
